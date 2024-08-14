@@ -18,6 +18,7 @@ I'm open to collaboration, especially on projects that are both challenging and 
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kehat365?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Kehat365?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kehat365?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKehat365&countColor=%23263759" alt="visitor_badge">
 </p>
 
 ---------------------------------------------------------
@@ -44,13 +45,5 @@ I'm open to collaboration, especially on projects that are both challenging and 
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-
-<br>
-
----------------------------------------------------------
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKehat365&countColor=%23263759" alt="visitor_badge">
-</p>
 
 <br />
